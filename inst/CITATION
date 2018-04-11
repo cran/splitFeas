@@ -1,0 +1,25 @@
+citHeader("To cite splitFeas in publications, please use:")
+
+citEntry(entry = "article",
+         title = "An MM Algorithm for Split Feasibility Problems",
+         author = "Jason Xu and Eric C. Chi and Meng Yang and Kenneth Lange",
+         year = "2017",
+         journal = "arXiv eprint",
+         volume = "abs/1612.05614",
+	 url = "https://arxiv.org/abs/1612.05614",
+	 ee = "https://arxiv.org/abs/1612.05614",
+         textVersion = "Jason Xu, Eric C. Chi, Meng Yang, and Kenneth Lange, An MM Algorithm for Split Feasibility Problems, arXiv:1612.05614 [math.OC], 2017.")
+
+citEntry(entry = "incollection",
+         title = "Generalized Linear Model Regression under Distance-to-set Penalties",
+         author = "Jason Xu and Eric C. Chi and Meng Yang and Kenneth Lange",
+         year = "2017",
+         booktitle = "Advances in Neural Information Processing Systems 30",
+         editor = "Isabelle Guyon and Ulrike Von Luxburg Luxburg and Samy Bengio and Hanna Wallach and Rob Fergus and S.V.N. Vishwanathan and Roman Garnett",
+         pages = "1385--1395",
+         publisher = "Curran Associates, Inc.",
+	       url = "http://papers.nips.cc/paper/6737-generalized-linear-model-regression-under-distance-to-set-penalties",
+	       ee = "http://papers.nips.cc/paper/6737-generalized-linear-model-regression-under-distance-to-set-penalties",
+         textVersion = "Jason Xu, Eric C. Chi, and Kenneth Lange, Generalized Linear Model Regression under Distance-to-set Penalties, in Advances in Neural Information Processing Systems (NIPS) 2017, (Long Beach, CA, Dec 4-9, 2017).",
+         header       = "If splitFeas is used to perform constrained generalized linear model regression, please also cite:"
+         )
